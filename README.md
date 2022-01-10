@@ -4,8 +4,8 @@ Foi realizado neste projeto um jogo da velha com refência ao clássico Mineiro 
 
 # Tecnologias
 
-Foram utilizadas duas tecnologias no desenvolvimento do projeto.
-HTML como linguagem de marcação e o CSS para dar estilo a página Web.
+Foram utilizadas três tecnologias no desenvolvimento do projeto.
+Javascript, HTML como linguagem de marcação e o CSS para dar estilo a página Web.
 
 # Autor
 
